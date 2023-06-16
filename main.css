@@ -1,0 +1,36 @@
+.main-container{
+    height: 40vh;
+    width: 100%;
+    background-color:#c7ddf8; 
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.main-container h3{
+    font-size: 30px;
+    font-weight: 100;
+    color:black;
+}
+.main-container ol li{
+    list-style-type: style type solid;
+    margin: 10px 20px;   
+}
+.main-container ol li :hover{
+    color: whitesmoke;
+}
+.main-container ol li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;  
+}
+.sub-main .btn2{
+    display: inline-block;
+    background: linear-gradient(45deg,#315cb7,#b31178);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #fff;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0.15);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
